@@ -1,4 +1,7 @@
 Toto portfolio jsem si založil pro to abyste Vy jako můj případný budoucí zaměstnavatel měl přehled o mojich zkušenostech.
 Pod každý kódem mám napsané pro zajímavost nějaké svoje takeouts, více poznámek si zapisuju do sešitu který nosím u sebe.
 Kódy co sem postuju jsou z většiny dělané z mé hlavy ale občas si samozřejmně donechám něco vysvětlit od chatGPT ;).
+Pri každé složce jsou dva soubory-jeden je kód ve Visual Studio (.exe) a druhý je stejný kód akorát ve stejném formátu 
+jako je tento dokument abych se předešlo případným komplikacím.
+@Jan Kozel
 
